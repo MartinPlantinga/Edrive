@@ -1,2 +1,0 @@
-gcc -o test09 test09.c -lec -ltimer_posix
-

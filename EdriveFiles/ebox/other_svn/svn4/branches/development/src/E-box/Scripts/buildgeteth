@@ -1,2 +1,0 @@
-#/bin/bash
-gcc -o geteth geteth.c -lec -lc

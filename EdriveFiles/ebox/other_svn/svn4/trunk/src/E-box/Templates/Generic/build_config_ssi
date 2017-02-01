@@ -1,2 +1,0 @@
-gcc -Wall -g -o config_ssi config_ssi.c -lec
-

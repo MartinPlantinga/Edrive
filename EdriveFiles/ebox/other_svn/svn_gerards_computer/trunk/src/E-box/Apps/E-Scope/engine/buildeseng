@@ -1,1 +1,0 @@
-gcc eseng.c -o eseng -lengine -lec -ltimer_posix

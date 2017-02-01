@@ -1,2 +1,0 @@
-gcc -o test06 test06.c -lec
-

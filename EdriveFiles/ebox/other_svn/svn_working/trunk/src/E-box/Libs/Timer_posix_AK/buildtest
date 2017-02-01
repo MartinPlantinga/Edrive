@@ -1,1 +1,0 @@
-gcc -Wall -fPIC -o test_timer test_timer.c -L/usr/lib -ltimer_posix

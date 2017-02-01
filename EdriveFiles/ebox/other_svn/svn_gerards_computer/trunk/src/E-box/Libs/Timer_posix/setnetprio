@@ -1,2 +1,0 @@
-chrt -f -p 99 `pidof softirq-net-tx//`
-chrt -f -p 99 `pidof softirq-net-rx//`
