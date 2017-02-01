@@ -1,5 +1,5 @@
 # Edrive Files
-This repository contains all files required to run the Edrive on a Linux OS. This has been tested on Ubuntu 14.04 and Lubuntu 14.04.
+This repository contains all files required to convert a Linux OS into an Edrive. This has been tested on Ubuntu 14.04 and Lubuntu 14.04.
 
 ## Requirements
 The `install.sh` Bash script installs all required packages.
