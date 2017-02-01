@@ -1,0 +1,13 @@
+close all
+
+eval(['load ' filename '.mat'])
+ 
+n=40000;
+
+time=signals(1,:); %tijdsvector
+input=signals(2,:); % input ref3
+output=signals(3,:); % angle measurement
+
+plot(time(1:n),input(1:n))
+hold
+plot(time(1:n),output(1:n),'r')
