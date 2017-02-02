@@ -1,0 +1,2 @@
+merge xaa and xab together with:
+cat x* > sde1.vfat-ptcl-img.gz.aa
