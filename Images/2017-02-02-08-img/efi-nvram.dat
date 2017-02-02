@@ -1,0 +1,8 @@
+BootCurrent: 0000
+Timeout: 5 seconds
+BootOrder: 0000,0080
+Boot0000* ubuntu	HD(1,GPT,6d546ea6-084a-4a6b-986d-881da206942c,0x28,0x64000)/File(\EFI\ubuntu\shimx64.efi)
+Boot0080* Mac OS X	PciRoot(0x0)/Pci(0x1f,0x2)/Sata(0,0,0)/HD(2,GPT,b38655e7-10cf-464f-8b64-07795bef7290,0x64028,0x3b847340)
+Boot0081* Mac OS X	PciRoot(0x0)/Pci(0x1f,0x2)/Sata(0,0,0)/HD(2,GPT,b38655e7-10cf-464f-8b64-07795bef7290,0x64028,0x3b847340)
+Boot0082* 	PciRoot(0x0)/Pci(0x1f,0x2)/Sata(0,0,0)/HD(2,GPT,b38655e7-10cf-464f-8b64-07795bef7290,0x64028,0x3b847340)
+BootFFFF* 	PciRoot(0x0)/Pci(0x1f,0x2)/Sata(0,0,0)/HD(2,GPT,c5535dcc-b1b3-4dc1-b227-79d369ccfab9,0x64028,0x3a1ec0c0)/File(\System\Library\CoreServices\boot.efi)
