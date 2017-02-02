@@ -1,0 +1,10 @@
+Model: SanDisk Ultra (scsi)
+Disk /dev/sde: 15.6GB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags: 
+
+Number  Start   End     Size    Type     File system  Flags
+ 1      1049kB  4195MB  4194MB  primary  fat32
+ 2      4195MB  15.4GB  11.2GB  primary  ext4
+
