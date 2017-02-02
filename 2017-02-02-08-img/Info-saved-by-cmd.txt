@@ -1,1 +1,0 @@
-/usr/sbin/ocs-sr -q2 -c -j2 -z1p -i 4096 -sfsck -senc -p choose savedisk 2017-02-02-08-img sde

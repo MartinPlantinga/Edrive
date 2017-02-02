@@ -1,7 +1,0 @@
-label: dos
-label-id: 0x000e1d94
-device: /dev/sde
-unit: sectors
-
-/dev/sde1 : start=        2048, size=     8192000, type=b
-/dev/sde2 : start=     8194048, size=    21835776, type=83
