@@ -1,0 +1,4 @@
+# <Device name>   <File system>
+# File system is got from ocs-get-part-info. It might be different from that of blkid or parted.
+/dev/sde1 vfat
+/dev/sde2 ext4
