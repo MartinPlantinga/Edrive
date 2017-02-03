@@ -1,0 +1,19 @@
+KNAME NAME     SIZE TYPE FSTYPE   MOUNTPOINT                                 MODEL
+sda   sda      477G disk                                                     Crucial_CT512M55
+sda1  |-sda1   200M part vfat                                                
+sda2  |-sda2 476.1G part hfsplus                                             
+sda3  `-sda3 619.9M part hfsplus                                             
+sdb   sdb    298.1G disk                                                     Hitachi HTS54503
+sdb1  |-sdb1   3.7G part vfat                                                
+sdb2  |-sdb2  14.9G part swap                                                
+sdb3  |-sdb3  97.1G part ext4                                                
+sdb4  |-sdb4 181.8G part hfsplus                                             
+sdb5  `-sdb5   619M part vfat                                                
+sdc   sdc     14.5G disk                                                     Ultra           
+sdc1  |-sdc1   3.9G part vfat                                                
+sdc2  `-sdc2  10.4G part ext4                                                
+sdd   sdd      7.7G disk                                                     Flash Disk      
+sdd1  `-sdd1   7.7G part vfat     /lib/live/mount/medium                     
+sdf   sdf     14.5G disk                                                     DataTraveler 3.0
+sdf1  `-sdf1  14.5G part vfat     /home/partimag                             
+loop0 loop0  148.9M loop squashfs /lib/live/mount/rootfs/filesystem.squashfs 

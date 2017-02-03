@@ -1,0 +1,7 @@
+label: dos
+label-id: 0x000e1d94
+device: /dev/sdc
+unit: sectors
+
+/dev/sdc1 : start=        2048, size=     8192000, type=b
+/dev/sdc2 : start=     8194048, size=    21835776, type=83
