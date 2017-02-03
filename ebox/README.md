@@ -1,6 +1,6 @@
 # ebox
 
-The `ebox` directory has to be placed in the `/home/` directory.
+The `ebox` directory has to be placed in the `/home/` directory. Not all subdirectories are required for the Edrive to function correctly.
 
 The `ebox` directory contains the following sub-directories:
 
