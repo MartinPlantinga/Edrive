@@ -1,0 +1,4 @@
+merge xaa - xap together with:
+cat x* > sdc1.vfat-ptcl-img.gz.aa
+
+created with: split -b90m filename

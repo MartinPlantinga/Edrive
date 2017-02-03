@@ -1,0 +1,2 @@
+merge xaa and xab together with:
+cat x* > sde2.ext4-ptcl-img.gz.ab

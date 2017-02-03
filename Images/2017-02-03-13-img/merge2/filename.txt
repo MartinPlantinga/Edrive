@@ -1,0 +1,4 @@
+merge xaa - xbr together with:
+cat x* > sdc2.ext4-ptcl-img.gz.aa
+
+created with: split -b90m filename
