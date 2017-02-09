@@ -1,7 +1,3 @@
----
-title: Testing title
----
-
 # Simulated Experiments
 
 The Simulated Experiments consist of the following experiments:
