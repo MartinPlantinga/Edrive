@@ -12,3 +12,11 @@ sub-directory name | contents |
 `software` | contains lubuntu logo
 `svn` | contains all files required for QADScope.
 `version` | This directory is normally hidden `.version`. It contains a version file with modifications made.
+
+
+# Scripts
+The configuration files
+`edrive_rmInstallIcon.conf`
+`edrive_runBootScripts.conf`
+`edrive_rmInstallIcon.conf`
+have to be placed in the directory `/etc/init/`
