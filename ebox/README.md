@@ -19,4 +19,4 @@ The configuration files
 `edrive_rmInstallIcon.conf`
 `edrive_runBootScripts.conf`
 `edrive_rmInstallIcon.conf`
-have to be placed in the directory `/etc/init/`
+have to be placed in the directory `/etc/init/` such that they can be run at boot.
